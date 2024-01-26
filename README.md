@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi everyone 👋
 
+- 🔭 I’m currently working on Tencent IEG
+- 🌱 I’m currently learning LLM and related ingradients
+- 👯 I’m looking to collaborate on LLM, Motion Generation, Hierarchical Reinforcement Learning and Developing Games
+- 🤔 I’m looking for help with PhD and Industry opportunities
+- 💬 Ask me about anything about Reinforcement Learning and LLM 
+- 📫 How to reach me: chenyue0210@outlook.com
+- 😄 Pronouns: Games, LLM, RL
+- ⚡ Fun fact: I am serious
+  
 <!--
 **RushToNeverLand/RushToNeverLand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
